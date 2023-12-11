@@ -1,0 +1,52 @@
+.message {
+
+}
+
+.imageAndText {
+    width: 48px;
+    height: 48px;
+    flex-shrink: 0;
+    border-radius: 48px;
+}
+
+.imageAndText img {
+    width: 48px;
+    height: 48px;
+    flex-shrink: 0;
+    border-radius: 48px;
+}
+
+.text {
+    color: #FFF;
+    font-family: Montserrat;
+    font-size: 16px;
+    font-style: normal;
+    font-weight: 400;
+    line-height: normal;
+}
+
+.text:after {
+
+}
+
+.name {
+    color: #FFF;
+    font-family: Montserrat;
+    font-size: 18px;
+    font-style: normal;
+    font-weight: 600;
+    line-height: normal;
+}
+
+.messageText {
+    background-color: #06C;
+}
+
+.time {
+    color: #000;
+    font-family: Montserrat;
+    font-size: 10px;
+    font-style: normal;
+    font-weight: 600;
+    line-height: normal;
+}
